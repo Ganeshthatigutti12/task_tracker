@@ -19,5 +19,5 @@ This is a simple React application for managing daily tasks. It allows users to:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/task-tracker.git
+   git clone https://github.com/Ganeshthatigutti12/task-tracker.git
 
